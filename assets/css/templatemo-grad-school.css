@@ -177,7 +177,7 @@ a.menu-link { display: none; }
 }
 
 .main-header {
-    background-color: rgba(0,0,0, 0.7);
+    background-color: rgba(0,0,0, 0.9);
     height: 80px;
     position: fixed;
     z-index: 12;
